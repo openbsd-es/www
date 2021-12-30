@@ -1,1 +1,1 @@
-# openbsd-es.github.io
+# Comunidad de aprendizaje OpenBSD España
